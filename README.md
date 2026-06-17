@@ -1,58 +1,27 @@
-# Hi 👋 I'm Smita
-Computer Science student exploring the **MERN stack** and strengthening my programming fundamentals.
+# Hi, I'm Smita
 
-I'm always learning new technologies and building projects to improve my skills.
+Computer Science undergraduate focused on building full-stack systems, scalable backend services, and AI-powered applications, while strengthening software engineering and problem-solving skills.
 
----
-
-## 🦋 About Me
-
-- 📚 Currently learning **React and the MERN stack**
-- 💻 Interested in building **full-stack web applications**
-- ⚡ Practicing **problem solving and programming fundamentals**
-- 🍁 Improving my **Java and JavaScript skills**
+- 💡 300+ LeetCode problems solved | Rating: 1544
 
 ---
 
-## 🛠 Tech Stack
+## Technical Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Full-Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Backend Engineering:** REST APIs, Authentication, System Design Basics, CRUD Systems
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**Languages:** Java, JavaScript
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Computer Science:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
+
+**Tools:** Git, GitHub, Postman, Vercel
 
 ---
 
-## 📂 Projects
+## Projects
 
-### ✨ Blogify
-Backend-focused blogging platform built using **Node.js and Express** with REST APIs for managing blog posts.
+**DeepReview** – AI-powered code review system using LLM-based analysis with authentication and structured feedback generation.
 
-Features include:
-- Blog creation and management
-- REST API structure
-- Backend-focused architecture
-
----
-
-## 🌸🌸 Connect with me
-
-- LinkedIn: https://linkedin.com/in/smita-
-- Email: smita16025@gmail.com
-
----
-
-🚓 Thanks for visiting my profile!
+**FinTrack** – Full-stack finance management platform with secure authentication, transaction tracking, and real-time insights.
